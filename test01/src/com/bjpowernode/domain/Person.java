@@ -8,5 +8,6 @@ package com.bjpowernode.domain;
  * @Description:
  */
 public class Person {
+    private String id;
 
 }
